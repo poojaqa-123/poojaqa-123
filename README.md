@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @poojaqa-123
-- 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Python pytest for API automation
-- 📫 How to reach me poojaqaautomation@gmail.com
+- 👋 Hi, I’m Pooja
+- 👀 I’m passionate about Test Automation and QA
+- 🌱 I’m experienced in Java, Selenium, Python, Pytest, JavaScript, TypeScript, and Playwright; currently exploring AI‑driven approaches in Test Automation
+- 📫 Reach me at [poojaqaautomation@gmail.com](mailto:poojaqaautomation@gmail.com) or [poojakt123@gmail.com](mailto:poojakt123@gmail.com)
 
 <!---
 poojaqa-123/poojaqa-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
